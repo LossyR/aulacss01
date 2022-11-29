@@ -3,5 +3,8 @@ h1{
     background-color: blueviolet;
 }
 div{
-    background-color: blue;
+    background-color: wheat;
+    border: solid 6px;
+    margin: 20px;
+    padding: 15px;
 }
