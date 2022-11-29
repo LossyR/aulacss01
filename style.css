@@ -8,3 +8,15 @@ div{
     margin: 20px;
     padding: 15px;
 }
+div a{
+    text-decoration: none;
+}
+p{
+    background-color: tomato;
+    border: solid 6px;
+    margin: 20px;
+    padding: 15px;
+}
+.caixa{
+    background-color: blue;
+}
